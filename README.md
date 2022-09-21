@@ -15,7 +15,7 @@ cd <br>
 
 # ls //list <br>
 
-- ls뒤에는 -a 나 -l 옵션을 붙일 수 있음<br>
+ls뒤에는 -a 나 -l 옵션을 붙일 수 있음<br>
 
 # vim 사용법
 vim 파일명 <br>
