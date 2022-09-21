@@ -7,6 +7,8 @@
 |ls|list  |
 |pwd|print working directory|
 |cd|change directory  |
+|cd ..|상위 디렉토리로 가기 |
+
 
 ## vim 용어와  의미
 |용어|의미  |
